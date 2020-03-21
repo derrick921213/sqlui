@@ -1,2 +1,2 @@
-#this is a sqlui test.
-#and it will create soon.
+this is a sqlui test.\n
+and it will create soon.
